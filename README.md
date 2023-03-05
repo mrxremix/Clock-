@@ -1,2 +1,2 @@
 # Clock-
-This project was taken from YouTube
+This project was taken from YouTube and studied
